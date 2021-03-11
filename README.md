@@ -30,4 +30,4 @@ It is free software and it can be redistributed under the terms specified in the
 
 KMU-SCRC is a research center of Kookmin University, Korea.
 
-If you want to know about us, please visit our [```website: scrc.kookmin.ac.kr```](http://scrc.kookmin.ac.kr/)
+If you want to know about us, please visit our [```website: http://scrc.kookmin.ac.kr/```](http://scrc.kookmin.ac.kr/)
